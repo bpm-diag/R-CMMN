@@ -1,0 +1,11 @@
+!dist
+.github
+docs
+resources
+tasks
+test/*
+!test/util
+!test/helper
+.eslintignore
+.eslintrc
+.travis.yml
