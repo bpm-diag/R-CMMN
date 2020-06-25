@@ -23,6 +23,10 @@ npm run [linux|windows|macOS]
 ```
 In the case you get some errors, you can [manually bundling and running](./rcmmn_modules/guide_manual.md) the project.
 
+## Video Presentation and Tutorial
+
+A video presentation of the paper: "R-CMMN: A Tool to Design Resilient Aware Multi-Party Business Processes", accepted at CAiSE 2020 at the Forum track, together with a tutorial of the tool in action, is available at: https://youtu.be/jMEQjXBZ0Xg
+
 ## License
 
 Use under the terms of the [bpmn.io license](http://bpmn.io/license).
